@@ -1,16 +1,17 @@
  * {
-    margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    /* margin: 100px;
+    border: 20px;
+    padding: 50px; */
     /* background: linear-gradient(aqua, skyblue); */
-    
+   
 
-
-body {
+/* body {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
 
-
+}
     
 
 /* h1 {
